@@ -57,9 +57,6 @@
 
 </div>
 
-> 💡 *Tu peux épingler ces dépôts sur ton profil via « Customize your pins » pour qu'ils apparaissent en premier.*
-
----
 
 ## 📊 Mes statistiques GitHub
 
