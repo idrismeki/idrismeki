@@ -75,9 +75,6 @@
 <!-- GRAPHE D'ACTIVITÉ ANIMÉ (courbe dynamique de tes contributions) -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=idrismeki&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20contributions" alt="Graphe d'activité"/>
 
-<!-- TROPHÉES -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=idrismeki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophées GitHub"/>
-
 <!-- SERPENT ANIMÉ qui mange tes contributions (voir étape d'activation ci-dessous) -->
 <img width="100%" src="https://raw.githubusercontent.com/idrismeki/idrismeki/output/snake.svg?v=2" alt="Snake animation"/>
 
