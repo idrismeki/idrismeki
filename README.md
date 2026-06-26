@@ -90,14 +90,11 @@
 <a href="mailto:idris.mekidiche@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/TON-LIEN-LINKEDIN">
+<a href="https://www.linkedin.com/in/idris-mekidiche-50582a368/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://TON-PORTFOLIO.com">
+<a href="https://idrismeki.fr/">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.behance.net/TON-BEHANCE">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 </div>
