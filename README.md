@@ -3,11 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Idris%20Mekidiche&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%20Designer%20%E2%80%A2%20Front-End%20%E2%80%A2%20%C3%89tudiant%20IUT%20Aix-Marseille&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- TEXTE ANIMÉ -->
-<a href="https://github.com/idrismeki">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Je+conçois+des+interfaces+claires+et+esthétiques;Du+pixel+à+l'intégration+front-end;Figma+%E2%80%A2+HTML/CSS+%E2%80%A2+Design+System" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
@@ -44,18 +39,32 @@
 ---
 
 ## 🚀 Projets phares
-
+ 
 <div align="center">
-
 | Projet | Description | Stack |
 |:------:|:------------|:-----:|
+| 🎨 **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel — vitrine de mes projets et de mon univers visuel | `HTML` `CSS` |
 | 🎯 **[Site_web](https://github.com/idrismeki/Site_web)** | Site web sur le thème de **Valorant** — UI gaming, mise en page immersive | `HTML` `CSS` |
+| ⚛️ **[Todo-List-react](https://github.com/idrismeki/Todo-List-react)** | Application de tâches en **React** — composants, état et interface réactive | `React` `JS` |
 | 👟 **[Nike-Dunk](https://github.com/idrismeki/Nike-Dunk)** | Landing page produit autour de la sneaker Nike Dunk | `HTML` `CSS` |
 | 🟦 **[testeur-de-pixel](https://github.com/idrismeki/testeur-de-pixel)** | Outil de test de pixels morts — interface utilitaire | `HTML` |
 | 🗓️ **[emplitemps](https://github.com/idrismeki/emplitemps)** | Application de gestion d'emploi du temps | `PHP` |
-| 📱 **[youtube-to-tiktok](https://github.com/idrismeki/youtube-to-tiktok)** | Script de conversion de format vidéo | `Python` |
-
+ 
 </div>
+> 💡 *Tu peux épingler ces dépôts sur ton profil via « Customize your pins » pour qu'ils apparaissent en premier.*
+ 
+---
+ 
+## 🤝 Projets collaboratifs / en équipe
+ 
+Projets réalisés à plusieurs — où j'ai contribué au design et à l'interface au sein d'une équipe.
+ 
+| Projet | Mon rôle | Description |
+|:------:|:--------:|:------------|
+| 🎮 **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) — menus, thèmes, éditeur de niveaux, modes jusqu'à 4 joueurs, IA et Capture the Flag |
+| 📱 **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe développée avec **React Native (Expo)** — interface mobile et navigation pour le stock d'aliment |
+| 🩺 **[DashMed](https://github.com/DashMed-france/DashMed-SAE)** | `UI / Front-end` | Tableau de bord médical en équipe — visualisation et suivi de données patients sur une interface claire |
+| 🍽️ **[menu-service](https://github.com/Ftour-du-monde/menu-service)** | `Back-end` | Microservice **REST** de gestion de menus en **Java (Jakarta EE / JAX-RS)** avec base **MySQL** — projet d'équipe |
 
 
 ## 📊 Mes statistiques GitHub
