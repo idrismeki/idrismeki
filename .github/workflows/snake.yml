@@ -1,9 +1,9 @@
-      name: Generate Snake Animation
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # tous les jours à minuit (UTC)
-  workflow_dispatch:        # permet de lancer manuellement depuis l'onglet Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,8 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark
+          outputs: dist/snake.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
