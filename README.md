@@ -49,7 +49,7 @@
 | 🟦 **[testeur-de-pixel](https://github.com/idrismeki/testeur-de-pixel)** | Outil de test de pixels morts — interface utilitaire | `HTML` |
 | 🗓️ **[emplitemps](https://github.com/idrismeki/emplitemps)** | Application de gestion d'emploi du temps | `PHP` |
  
-> 💡 *Tu peux épingler ces dépôts sur ton profil via « Customize your pins » pour qu'ils apparaissent en premier.*
+> 
  
 ---
  
