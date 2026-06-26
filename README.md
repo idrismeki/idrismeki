@@ -45,13 +45,10 @@
 |:------:|:------------|:-----:|
 | 🎨 **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel — vitrine de mes projets et de mon univers visuel | `HTML` `CSS` |
 | 🎯 **[Site_web](https://github.com/idrismeki/Site_web)** | Site web sur le thème de **Valorant** — UI gaming, mise en page immersive | `HTML` `CSS` |
-| ⚛️ **[Todo-List-react](https://github.com/idrismeki/Todo-List-react)** | Application de tâches en **React** — composants, état et interface réactive | `React` `JS` |
 | 👟 **[Nike-Dunk](https://github.com/idrismeki/Nike-Dunk)** | Landing page produit autour de la sneaker Nike Dunk | `HTML` `CSS` |
-| 🟦 **[testeur-de-pixel](https://github.com/idrismeki/testeur-de-pixel)** | Outil de test de pixels morts — interface utilitaire | `HTML` |
-| 🗓️ **[emplitemps](https://github.com/idrismeki/emplitemps)** | Application de gestion d'emploi du temps | `PHP` |
  
 </div>
-> 💡 *Tu peux épingler ces dépôts sur ton profil via « Customize your pins » pour qu'ils apparaissent en premier.*
+>
  
 ---
  
