@@ -83,6 +83,15 @@
 
 </div>
 
+> 🐍 **Le serpent animé** nécessite une petite activation gratuite (une seule fois) :
+> 1. Dans ton dépôt `idrismeki`, crée le fichier `.github/workflows/snake.yml`
+> 2. Colle le contenu du fichier `snake.yml` que je t'ai fourni
+> 3. Onglet **Actions** > autorise les workflows > lance-le une fois manuellement (**Run workflow**)
+>
+> Il se régénérera ensuite automatiquement chaque jour. Si tu ne veux pas t'en occuper, supprime simplement la ligne `<img ... snake.svg ...>` ci-dessus.
+
+---
+
 ## 📫 Me contacter
 
 <div align="center">
