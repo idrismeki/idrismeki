@@ -79,18 +79,9 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=idrismeki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophées GitHub"/>
 
 <!-- SERPENT ANIMÉ qui mange tes contributions (voir étape d'activation ci-dessous) -->
-<img width="100%" src="https://raw.githubusercontent.com/idrismeki/idrismeki/output/snake.svg" alt="Snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/idrismeki/idrismeki/output/snake.svg?v=2" alt="Snake animation"/>
 
 </div>
-
-> 🐍 **Le serpent animé** nécessite une petite activation gratuite (une seule fois) :
-> 1. Dans ton dépôt `idrismeki`, crée le fichier `.github/workflows/snake.yml`
-> 2. Colle le contenu du fichier `snake.yml` que je t'ai fourni
-> 3. Onglet **Actions** > autorise les workflows > lance-le une fois manuellement (**Run workflow**)
->
-> Il se régénérera ensuite automatiquement chaque jour. Si tu ne veux pas t'en occuper, supprime simplement la ligne `<img ... snake.svg ...>` ci-dessus.
-
----
 
 ## 📫 Me contacter
 
