@@ -9,7 +9,7 @@
 
 ## 🎨 À propos de moi
 
-Étudiant en informatique à l'**IUT d'Aix-Marseille**, passionné par le **design d'interface** et l'expérience utilisateur. J'aime transformer une idée en une interface claire, cohérente et agréable à utiliser — puis l'intégrer proprement en code.
+Étudiant en informatique à l'**IUT d'Aix-Marseille**, passionné par le **design d'interface** et l'expérience utilisateur. J'aime transformer une idée en une interface claire, cohérente et agréable à utiliser puis l'intégrer proprement en code.
 
 - 🖌️ Je conçois des maquettes et des design systems sur **Figma**
 - 💻 J'intègre mes designs en **HTML / CSS / JavaScript**
@@ -42,8 +42,8 @@
  
 | Projet | Description | Stack |
 |:------:|:------------|:-----:|
-| 🎨 **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel — vitrine de mes projets et de mon univers visuel | `HTML` `CSS` |
-| 🎯 **[Site_web](https://github.com/idrismeki/Site_web)** | Site web sur le thème de **Valorant** — UI gaming, mise en page immersive | `HTML` `CSS` |
+| 🎨 **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel  vitrine de mes projets et de mon univers visuel | `HTML` `CSS` |
+| 🎯 **[Site_web](https://github.com/idrismeki/Site_web)** | Site web sur le thème de **Valorant** UI gaming, mise en page immersive | `HTML` `CSS` |
 | 👟 **[Nike-Dunk](https://github.com/idrismeki/Nike-Dunk)** | Landing page produit autour de la sneaker Nike Dunk | `HTML` `CSS` |
  
 > 
@@ -56,10 +56,10 @@ Projets réalisés à plusieurs — où j'ai contribué au design et à l'interf
  
 | Projet | Mon rôle | Description |
 |:------:|:--------:|:------------|
-| 🎮 **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) — menus, thèmes, éditeur de niveaux, modes jusqu'à 4 joueurs, IA et Capture the Flag |
-| 📱 **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe développée avec **React Native (Expo)** — interface mobile et navigation pour le stock d'aliment |
-| 🩺 **[DashMed](https://github.com/DashMed-france/DashMed-SAE)** | `UI / Front-end` | Tableau de bord médical en équipe — visualisation et suivi de données patients sur une interface claire |
-| 🍽️ **[menu-service](https://github.com/Ftour-du-monde/menu-service)** | `Back-end` | Microservice **REST** de gestion de menus en **Java (Jakarta EE / JAX-RS)** avec base **MySQL** — projet d'équipe |
+| 🎮 **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) menus, thèmes, éditeur de niveaux, modes jusqu'à 4 joueurs, IA et Capture the Flag |
+| 📱 **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe développée avec **React Native (Expo)** interface mobile et navigation pour le stock d'aliment |
+| 🩺 **[DashMed](https://github.com/DashMed-france/DashMed-SAE)** | `UI / Front-end` | Tableau de bord médical en équipe visualisation et suivi de données patients sur une interface claire |
+| 🍽️ **[menu-service](https://github.com/Ftour-du-monde/menu-service)** | `Back-end` | Microservice **REST** de gestion de menus en **Java (Jakarta EE / JAX-RS)** avec base **MySQL** projet d'équipe |
 
 
 ## 📊 Mes statistiques GitHub
@@ -101,6 +101,6 @@ Projets réalisés à plusieurs — où j'ai contribué au design et à l'interf
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
-<sub>« Le design, ce n'est pas seulement ce à quoi ça ressemble. C'est aussi comment ça fonctionne. » — Steve Jobs</sub>
+<sub>« Le design, ce n'est pas seulement ce à quoi ça ressemble. C'est aussi comment ça fonctionne. » Steve Jobs</sub>
 
 </div>
