@@ -12,11 +12,11 @@
 Étudiant en 2ᵉ année de **BUT Informatique** à l'**IUT d'Aix-Marseille**, je développe des applications web avec une préférence marquée pour le **frontend** 
 et une particularité : je conçois aussi mes interfaces sur **Figma** avant de les coder, du design system jusqu'au pixel.
 
-Je développe en **Vue.js / Nuxt 3** et **TypeScript** voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
-Du **design Figma** à l'**intégration responsive**, je couvre toute la chaîne
-Bases solides en **PHP / MySQL**, en montée en compétence sur **Node.js, Fastify, Prisma, PostgreSQL**
-Je recherche une **alternance Développeur Full Stack (dominante Frontend)** — rentrée septembre 2026
-Mon portfolio : [idrismeki.fr](https://idrismeki.fr)
+- Je développe en **Vue.js / Nuxt 3** et **TypeScript** — voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
+- Du **design Figma** à l'**intégration responsive**, je couvre toute la chaîne
+- Bases solides en **PHP / MySQL**, en montée en compétence sur **Node.js, Fastify, Prisma, PostgreSQL**
+- Je recherche une **alternance Développeur Full Stack (dominante Frontend)** — rentrée septembre 2026
+- Mon portfolio : [idrismeki.fr](https://idrismeki.fr)
 
 ---
 
@@ -62,6 +62,16 @@ Mon portfolio : [idrismeki.fr](https://idrismeki.fr)
 - J'approfondis l'écosystème **Nuxt** : composables, state management, rendu côté serveur
 - Je me forme aux **tests automatisés** (unitaires et e2e)
 - ⚙️ Je découvre le backend **Node.js / Fastify / Prisma**
+
+---
+
+## Mes contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/idrismeki/idrismeki/output/snake.svg" alt="Animation serpent des contributions GitHub" width="100%"/>
+
+</div>
 
 ---
 
