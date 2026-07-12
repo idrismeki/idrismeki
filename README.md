@@ -1,106 +1,73 @@
 <!-- BANNIÈRE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Idris%20Mekidiche&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%20Designer%20%E2%80%A2%20Front-End%20%E2%80%A2%20%C3%89tudiant%20IUT%20Aix-Marseille&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Idris%20Mekidiche&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%E2%80%A2%20Frontend%20Nuxt%20%2F%20Vue%20%E2%80%A2%20IUT%20Aix-Marseille&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 ---
 
-## 🎨 À propos de moi
+## À propos de moi
 
-Étudiant en informatique à l'**IUT d'Aix-Marseille**, passionné par le **design d'interface** et l'expérience utilisateur. J'aime transformer une idée en une interface claire, cohérente et agréable à utiliser puis l'intégrer proprement en code.
+Étudiant en 2ᵉ année de **BUT Informatique** à l'**IUT d'Aix-Marseille**, je développe des applications web avec une préférence marquée pour le **frontend** 
+et une particularité : je conçois aussi mes interfaces sur **Figma** avant de les coder, du design system jusqu'au pixel.
 
-- 🖌️ Je conçois des maquettes et des design systems sur **Figma**
-- 💻 J'intègre mes designs en **HTML / CSS / JavaScript**
-- 🎯 Je m'intéresse à l'**accessibilité**, la **cohérence visuelle** et le détail du pixel
-- 🌱 En recherche d'une **alternance / stage en UI Design**
-- ⚡ Centres d'intérêt : jeux vidéo, branding, motion design
+Je développe en **Vue.js / Nuxt 3** et **TypeScript** voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
+Du **design Figma** à l'**intégration responsive**, je couvre toute la chaîne
+Bases solides en **PHP / MySQL**, en montée en compétence sur **Node.js, Fastify, Prisma, PostgreSQL**
+Je recherche une **alternance Développeur Full Stack (dominante Frontend)** — rentrée septembre 2026
+Mon portfolio : [idrismeki.fr](https://idrismeki.fr)
 
 ---
 
-## 🧰 Compétences & outils
+## Stack technique
 
 <div align="center">
 
-### Design
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,html,css&theme=dark" />
 
-### Intégration / Dev
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,git,github&theme=dark" />
+### Backend & BDD
+<img src="https://skillicons.dev/icons?i=php,mysql,nodejs,postgres&theme=dark" />
+
+### Design & outils
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
- 
-## 🚀 Projets phares
- 
+
+## Projets phares
+
 | Projet | Description | Stack |
 |:------:|:------------|:-----:|
-| 🎨 **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel  vitrine de mes projets et de mon univers visuel | `HTML` `CSS` |
-| 🎯 **[Site_web](https://github.com/idrismeki/Site_web)** | Site web sur le thème de **Valorant** UI gaming, mise en page immersive | `HTML` `CSS` |
-| 👟 **[Nike-Dunk](https://github.com/idrismeki/Nike-Dunk)** | Landing page produit autour de la sneaker Nike Dunk | `HTML` `CSS` |
- 
-> 
- 
+| **[dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)** | Dashboard de suivi d'entraînements : détection automatique des records personnels (PR), graphiques de progression, import/export JSON synchronisé avec une app mobile | `Nuxt 3` `Vue 3` `Chart.js` |
+| **[devin-la-musique](https://github.com/idrismeki/devin-la-musique)** | Jeu web de blind-test : API YouTube, authentification, gestion des rôles, score dynamique | `HTML` `CSS` `JS` |
+| **Site HUP** | Site vitrine de l'association Humour d'Utilité Publique, de la maquette Figma à l'intégration responsive, en lien direct avec le client | `HTML` `CSS` `JS` `Figma` |
+| **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel — [idrismeki.fr](https://idrismeki.fr) | `HTML` `CSS` |
+
 ---
- 
-## 🤝 Projets collaboratifs / en équipe
- 
-Projets réalisés à plusieurs — où j'ai contribué au design et à l'interface au sein d'une équipe.
- 
+
+## Projets en équipe
+
 | Projet | Mon rôle | Description |
 |:------:|:--------:|:------------|
-| 🎮 **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) menus, thèmes, éditeur de niveaux, modes jusqu'à 4 joueurs, IA et Capture the Flag |
-| 📱 **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe développée avec **React Native (Expo)** interface mobile et navigation pour le stock d'aliment |
-| 🩺 **[DashMed](https://github.com/DashMed-france/DashMed-SAE)** | `UI / Front-end` | Tableau de bord médical en équipe visualisation et suivi de données patients sur une interface claire |
-| 🍽️ **[menu-service](https://github.com/Ftour-du-monde/menu-service)** | `Back-end` | Microservice **REST** de gestion de menus en **Java (Jakarta EE / JAX-RS)** avec base **MySQL** projet d'équipe |
+|  **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) — menus, thèmes, éditeur de niveaux, 4 joueurs, IA, Capture the Flag |
+| **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe avec **React Native (Expo)** — interface et navigation pour la gestion de stock d'aliments |
 
+---
 
-## 📊 Mes statistiques GitHub
+## En ce moment
 
-<div align="center">
+- J'approfondis l'écosystème **Nuxt** : composables, state management, rendu côté serveur
+- Je me forme aux **tests automatisés** (unitaires et e2e)
+- ⚙️ Je découvre le backend **Node.js / Fastify / Prisma**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=idrismeki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrismeki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=idrismeki&theme=tokyonight&hide_border=true" alt="Streak GitHub"/>
-
-<!-- GRAPHE D'ACTIVITÉ ANIMÉ (courbe dynamique de tes contributions) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=idrismeki&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20contributions" alt="Graphe d'activité"/>
-
-<!-- SERPENT ANIMÉ qui mange tes contributions (voir étape d'activation ci-dessous) -->
-<img width="100%" src="https://raw.githubusercontent.com/idrismeki/idrismeki/output/snake.svg?v=2" alt="Snake animation"/>
-
-</div>
-
-## 📫 Me contacter
+---
 
 <div align="center">
 
-<a href="mailto:idris.mekidiche@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/idris-mekidiche-50582a368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://idrismeki.fr/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
-
-<sub>« Le design, ce n'est pas seulement ce à quoi ça ressemble. C'est aussi comment ça fonctionne. » Steve Jobs</sub>
+**Me contacter :** [idris.mekidiche@gmail.com](mailto:idris.mekidiche@gmail.com) · 
+[idrismeki.fr](https://idrismeki.fr)
 
 </div>
