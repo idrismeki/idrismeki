@@ -12,7 +12,7 @@
 Étudiant en 2ᵉ année de **BUT Informatique** à l'**IUT d'Aix-Marseille**, je développe des applications web avec une préférence marquée pour le **frontend** 
 et une particularité : je conçois aussi mes interfaces sur **Figma** avant de les coder, du design system jusqu'au pixel.
 
-- Je développe en **Vue.js / Nuxt 3** et **TypeScript** — voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
+- Je développe en **Vue.js / Nuxt 3** et **TypeScript** voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
 - Du **design Figma** à l'**intégration responsive**, je couvre toute la chaîne
 - Bases solides en **PHP / MySQL**, en montée en compétence sur **Node.js, Fastify, Prisma, PostgreSQL**
 - Je recherche une **alternance Développeur Full Stack (dominante Frontend)** — rentrée septembre 2026
@@ -52,8 +52,8 @@ et une particularité : je conçois aussi mes interfaces sur **Figma** avant de 
 
 | Projet | Mon rôle | Description |
 |:------:|:--------:|:------------|
-|  **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe) — menus, thèmes, éditeur de niveaux, 4 joueurs, IA, Capture the Flag |
-| **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe avec **React Native (Expo)** — interface et navigation pour la gestion de stock d'aliments |
+|  **[SuperBomberman](https://github.com/BOUDHIB-Mohame-Amine-24006551/SuperBomberman)** | `UI / Java` | Clone de **Super Bomberman** en **Java / JavaFX** (projet SAE en équipe)menus, thèmes, éditeur de niveaux, 4 joueurs, IA, Capture the Flag |
+| **[DeadMiammm](https://github.com/TORCHIN-Maxence-24020376/DeadMiammm)** | `UI / Mobile` | Application mobile en équipe avec **React Native (Expo)** interface et navigation pour la gestion de stock d'aliments |
 
 ---
 
