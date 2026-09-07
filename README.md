@@ -1,4 +1,4 @@
-8<!-- BANNIÈRE -->
+<!-- BANNIÈRE -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Idris%20Mekidiche&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%E2%80%A2%20Frontend%20Nuxt%20%2F%20Vue%20%E2%80%A2%20IUT%20Aix-Marseille&descAlignY=58&descSize=18" width="100%"/>
