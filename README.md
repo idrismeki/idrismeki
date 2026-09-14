@@ -9,7 +9,7 @@
 
 ## À propos de moi
 
-Étudiant en 2ᵉ année de **BUT Informatique** à l'**IUT d'Aix-Marseille**, je développe des applications web avec une préférence marquée pour le **frontend** 
+Étudiant en 3ᵉ année de **BUT Informatique** à l'**IUT d'Aix-Marseille**, je développe des applications web avec une préférence marquée pour le **frontend** 
 et une particularité : je conçois aussi mes interfaces sur **Figma** avant de les coder, du design system jusqu'au pixel.
 
 - Je développe en **Vue.js / Nuxt 3** et **TypeScript** voir mon [dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)
