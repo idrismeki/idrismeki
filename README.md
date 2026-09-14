@@ -44,7 +44,7 @@ et une particularité : je conçois aussi mes interfaces sur **Figma** avant de 
 | **[dashboard-muscu](https://github.com/idrismeki/dashboard-muscu)** | Dashboard de suivi d'entraînements : détection automatique des records personnels (PR), graphiques de progression, import/export JSON synchronisé avec une app mobile | `Nuxt 3` `Vue 3` `Chart.js` |
 | **[devin-la-musique](https://github.com/idrismeki/devin-la-musique)** | Jeu web de blind-test : API YouTube, authentification, gestion des rôles, score dynamique | `HTML` `CSS` `JS` |
 | **Site HUP** | Site vitrine de l'association Humour d'Utilité Publique, de la maquette Figma à l'intégration responsive, en lien direct avec le client | `HTML` `CSS` `JS` `Figma` |
-| **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel — [idrismeki.fr](https://idrismeki.fr) | `HTML` `CSS` |
+| **[portfolio](https://github.com/idrismeki/portfolio)** | Mon portfolio personnel [idrismeki.fr](https://idrismeki.fr) | `HTML` `CSS` |
 
 ---
 
